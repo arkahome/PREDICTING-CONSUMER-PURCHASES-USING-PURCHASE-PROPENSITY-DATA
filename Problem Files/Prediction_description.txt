@@ -1,0 +1,11 @@
+The probabilities are in prediction_answer.csv file.
+
+The item with id 24 will be showing 0.99+ probability for each customer i.e due to advertising = 1 in the model. So, it doesn't necessarily reflect the users are 99% sure of buying that item, instead it can be inferred by sorting the probability of customers buying the item,it will reflect which customers are more likely to buy the item.
+
+For other items, the probability starts with 0.082266. We can multiply all elements with 10 and see that as the probability or likelihood of user buying. That will give us a very good estimate.
+
+If any issues in understanding please let me know.
+
+Thanks and regards,
+
+Arka
